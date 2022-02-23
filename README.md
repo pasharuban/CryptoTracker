@@ -2,6 +2,8 @@
 ## About
 CryptoTracker = best service for tracking crypto currency =)
 
+Neoflex hackaton 2022 (3 place)
+
 ## Installation
 For starting all backend microservices you only need to execute one command in project root
 ```bash
